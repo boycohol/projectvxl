@@ -1,0 +1,2 @@
+../Core/Src/input_reading.c:14:6:button_reading	16	static
+../Core/Src/input_reading.c:46:5:isButtonPressed	16	static

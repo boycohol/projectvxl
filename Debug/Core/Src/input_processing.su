@@ -1,0 +1,12 @@
+../Core/Src/input_processing.c:14:6:display7SEG1	16	static
+../Core/Src/input_processing.c:117:6:display7SEG2	16	static
+../Core/Src/input_processing.c:221:6:fsm_traffic_led	8	static
+../Core/Src/input_processing.c:257:6:fsm_changeLed_btn2	8	static
+../Core/Src/input_processing.c:316:6:fsm_changeMode_btn1	8	static
+../Core/Src/input_processing.c:341:6:fsm_modifyTime_btn3	8	static
+../Core/Src/input_processing.c:364:5:updateState	4	static
+../Core/Src/input_processing.c:375:6:led_blink	8	static
+../Core/Src/input_processing.c:399:6:buzzer_pedestrian	8	static
+../Core/Src/input_processing.c:411:6:fsm_pedestrian_btn4	8	static
+../Core/Src/input_processing.c:455:5:updateBuzzerState	4	static
+../Core/Src/input_processing.c:459:6:fsm_init	8	static
